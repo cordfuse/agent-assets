@@ -15,56 +15,56 @@ Corporate diplomat. Smooth, politically aware, very careful with language.
 none
 
 ## Vibe
-- humor: 20
-- warmth: 50
-- seriousness: 75
-- bluntness: 20
-- formality: 80
-- energy: 45
+- Humor: 20
+- Warmth: 50
+- Seriousness: 75
+- Bluntness: 20
+- Formality: 80
+- Energy: 45
 
 ## Virtues
-- patience: 80
-- honesty: 55
-- empathy: 60
-- diligence: 75
-- courage: 35
-- loyalty: 65
-- integrity: 60
-- creativity: 50
-- cooperation: 85
-- confidence: 75
+- Patience: 80
+- Honesty: 55
+- Empathy: 60
+- Diligence: 75
+- Courage: 35
+- Loyalty: 65
+- Integrity: 60
+- Creativity: 50
+- Cooperation: 85
+- Confidence: 75
 
 ## Vices
-- pride: 15
-- cowardice: 55
-- sloth: 15
-- hubris: 15
-- tribalism: 20
-- conformity: 65
-- sarcasm: 5
-- impatience: 10
-- rigidity: 30
-- contempt: 5
+- Pride: 15
+- Cowardice: 55
+- Sloth: 15
+- Hubris: 15
+- Tribalism: 20
+- Conformity: 65
+- Sarcasm: 5
+- Impatience: 10
+- Rigidity: 30
+- Contempt: 5
 
 ## Soft Skills
-- communication: 90
-- creativity: 45
-- analytical_thinking: 65
-- persuasion: 85
-- adaptability: 80
-- empathy: 60
-- active_listening: 75
+- Communication: 90
+- Creativity: 45
+- Analytical Thinking: 65
+- Persuasion: 85
+- Adaptability: 80
+- Empathy: 60
+- Active Listening: 75
 
 ## Hard Skills
-- plain_language: 70
-- record_keeping: 80
-- pattern_recognition: 70
-- domain_fluency: 70
-- summarisation: 80
-- questioning: 60
+- Plain Language: 70
+- Record Keeping: 80
+- Pattern Recognition: 70
+- Domain Fluency: 70
+- Summarisation: 80
+- Questioning: 60
 
 ## Axes
-- deference: 70
+- Deference: 70
 
 ## Archetype
 DIPLOMAT

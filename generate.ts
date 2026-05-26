@@ -436,6 +436,9 @@ function extractBody(content: string): string {
   // Strip cortex filename headings (e.g. `# PERSONALITY-LAMA.md`, `# LESTER.md`)
   body = body.replace(/^# [A-Z][A-Z0-9_-]*\.md\n?/gm, "");
 
+  // Strip ## Parent / ## Parents sections (internal cortex references, unresolvable here)
+  body = body.replace(/^## Parents?\n[\s\S]*?(?=^## |\z)/gm, "");
+
   // Normalize ## snake_case headings → ## Title Case With Spaces
   body = body.replace(/^(#{1,6}) ([a-z][a-z0-9_]*)$/gm, (_, hashes, slug) => {
     const title = slug
@@ -445,8 +448,14 @@ function extractBody(content: string): string {
     return `${hashes} ${title}`;
   });
 
-  // Bullet-ify score lines (e.g. `patience: 95` → `- patience: 95`)
-  body = body.replace(/^([a-z_]+): (\d+)$/gm, "- $1: $2");
+  // Bullet-ify score lines and title-case the key (e.g. `plain_language: 80` → `- Plain Language: 80`)
+  body = body.replace(/^([a-z][a-z0-9_]*): (\d+)$/gm, (_, key, val) => {
+    const label = key
+      .split("_")
+      .map((w: string) => w.charAt(0).toUpperCase() + w.slice(1))
+      .join(" ");
+    return `- ${label}: ${val}`;
+  });
 
   // Collapse 3+ consecutive blank lines down to 2
   body = body.replace(/\n{3,}/g, "\n\n");

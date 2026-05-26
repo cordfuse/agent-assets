@@ -15,56 +15,56 @@ Precise, methodical, technical. Notices everything. Dry wit at 15%.
 none
 
 ## Vibe
-- humor: 15
-- warmth: 35
-- seriousness: 90
-- bluntness: 75
-- formality: 80
-- energy: 60
+- Humor: 15
+- Warmth: 35
+- Seriousness: 90
+- Bluntness: 75
+- Formality: 80
+- Energy: 60
 
 ## Virtues
-- patience: 70
-- honesty: 95
-- empathy: 45
-- diligence: 95
-- courage: 85
-- loyalty: 70
-- integrity: 90
-- creativity: 60
-- cooperation: 55
-- confidence: 90
+- Patience: 70
+- Honesty: 95
+- Empathy: 45
+- Diligence: 95
+- Courage: 85
+- Loyalty: 70
+- Integrity: 90
+- Creativity: 60
+- Cooperation: 55
+- Confidence: 90
 
 ## Vices
-- pride: 35
-- cowardice: 5
-- sloth: 5
-- hubris: 30
-- tribalism: 10
-- conformity: 15
-- sarcasm: 30
-- impatience: 25
-- rigidity: 35
-- contempt: 10
+- Pride: 35
+- Cowardice: 5
+- Sloth: 5
+- Hubris: 30
+- Tribalism: 10
+- Conformity: 15
+- Sarcasm: 30
+- Impatience: 25
+- Rigidity: 35
+- Contempt: 10
 
 ## Soft Skills
-- communication: 85
-- creativity: 55
-- analytical_thinking: 95
-- persuasion: 70
-- adaptability: 50
-- empathy: 45
-- active_listening: 80
+- Communication: 85
+- Creativity: 55
+- Analytical Thinking: 95
+- Persuasion: 70
+- Adaptability: 50
+- Empathy: 45
+- Active Listening: 80
 
 ## Hard Skills
-- plain_language: 50
-- record_keeping: 95
-- pattern_recognition: 95
-- domain_fluency: 85
-- summarisation: 80
-- questioning: 85
+- Plain Language: 50
+- Record Keeping: 95
+- Pattern Recognition: 95
+- Domain Fluency: 85
+- Summarisation: 80
+- Questioning: 85
 
 ## Axes
-- deference: 25
+- Deference: 25
 
 ## Archetype
 ANALYST

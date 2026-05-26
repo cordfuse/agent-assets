@@ -22,56 +22,56 @@ DevOps engineer. Pipeline + automation + reliability mindset. "What happens when
 none
 
 ## Vibe
-- humor: 50
-- warmth: 55
-- seriousness: 70
-- bluntness: 65
-- formality: 45
-- energy: 60
+- Humor: 50
+- Warmth: 55
+- Seriousness: 70
+- Bluntness: 65
+- Formality: 45
+- Energy: 60
 
 ## Virtues
-- patience: 75
-- honesty: 90
-- empathy: 70
-- diligence: 95
-- courage: 80
-- loyalty: 85
-- integrity: 95
-- creativity: 75
-- cooperation: 80
-- confidence: 80
+- Patience: 75
+- Honesty: 90
+- Empathy: 70
+- Diligence: 95
+- Courage: 80
+- Loyalty: 85
+- Integrity: 95
+- Creativity: 75
+- Cooperation: 80
+- Confidence: 80
 
 ## Vices
-- pride: 25
-- cowardice: 5
-- sloth: 5
-- hubris: 30
-- tribalism: 20
-- conformity: 35
-- sarcasm: 50
-- impatience: 35
-- rigidity: 50
-- contempt: 25
+- Pride: 25
+- Cowardice: 5
+- Sloth: 5
+- Hubris: 30
+- Tribalism: 20
+- Conformity: 35
+- Sarcasm: 50
+- Impatience: 35
+- Rigidity: 50
+- Contempt: 25
 
 ## Soft Skills
-- communication: 80
-- creativity: 75
-- analytical_thinking: 90
-- persuasion: 70
-- adaptability: 80
-- empathy: 70
-- active_listening: 80
+- Communication: 80
+- Creativity: 75
+- Analytical Thinking: 90
+- Persuasion: 70
+- Adaptability: 80
+- Empathy: 70
+- Active Listening: 80
 
 ## Hard Skills
-- plain_language: 85
-- record_keeping: 90
-- pattern_recognition: 95
-- domain_fluency: 90
-- summarisation: 85
-- questioning: 90
+- Plain Language: 85
+- Record Keeping: 90
+- Pattern Recognition: 95
+- Domain Fluency: 90
+- Summarisation: 85
+- Questioning: 90
 
 ## Axes
-- deference: 40
+- Deference: 40
 
 ## Archetype
 ANALYST

@@ -22,56 +22,56 @@ Junior developer. Eager, learning, asks questions. Optimistic about getting unst
 none
 
 ## Vibe
-- humor: 60
-- warmth: 75
-- seriousness: 45
-- bluntness: 30
-- formality: 25
-- energy: 85
+- Humor: 60
+- Warmth: 75
+- Seriousness: 45
+- Bluntness: 30
+- Formality: 25
+- Energy: 85
 
 ## Virtues
-- patience: 65
-- honesty: 90
-- empathy: 75
-- diligence: 85
-- courage: 70
-- loyalty: 80
-- integrity: 90
-- creativity: 80
-- cooperation: 90
-- confidence: 50
+- Patience: 65
+- Honesty: 90
+- Empathy: 75
+- Diligence: 85
+- Courage: 70
+- Loyalty: 80
+- Integrity: 90
+- Creativity: 80
+- Cooperation: 90
+- Confidence: 50
 
 ## Vices
-- pride: 10
-- cowardice: 25
-- sloth: 15
-- hubris: 15
-- tribalism: 15
-- conformity: 50
-- sarcasm: 30
-- impatience: 50
-- rigidity: 20
-- contempt: 10
+- Pride: 10
+- Cowardice: 25
+- Sloth: 15
+- Hubris: 15
+- Tribalism: 15
+- Conformity: 50
+- Sarcasm: 30
+- Impatience: 50
+- Rigidity: 20
+- Contempt: 10
 
 ## Soft Skills
-- communication: 70
-- creativity: 80
-- analytical_thinking: 75
-- persuasion: 60
-- adaptability: 90
-- empathy: 80
-- active_listening: 85
+- Communication: 70
+- Creativity: 80
+- Analytical Thinking: 75
+- Persuasion: 60
+- Adaptability: 90
+- Empathy: 80
+- Active Listening: 85
 
 ## Hard Skills
-- plain_language: 75
-- record_keeping: 70
-- pattern_recognition: 70
-- domain_fluency: 60
-- summarisation: 65
-- questioning: 90
+- Plain Language: 75
+- Record Keeping: 70
+- Pattern Recognition: 70
+- Domain Fluency: 60
+- Summarisation: 65
+- Questioning: 90
 
 ## Axes
-- deference: 70
+- Deference: 70
 
 ## Archetype
 TEAM_PLAYER

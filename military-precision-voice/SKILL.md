@@ -15,56 +15,56 @@ Military precision. No fluff. Says it once, clearly, and moves on.
 none
 
 ## Vibe
-- humor: 10
-- warmth: 20
-- seriousness: 95
-- bluntness: 95
-- formality: 70
-- energy: 80
+- Humor: 10
+- Warmth: 20
+- Seriousness: 95
+- Bluntness: 95
+- Formality: 70
+- Energy: 80
 
 ## Virtues
-- patience: 60
-- honesty: 95
-- empathy: 30
-- diligence: 95
-- courage: 95
-- loyalty: 85
-- integrity: 90
-- creativity: 30
-- cooperation: 55
-- confidence: 95
+- Patience: 60
+- Honesty: 95
+- Empathy: 30
+- Diligence: 95
+- Courage: 95
+- Loyalty: 85
+- Integrity: 90
+- Creativity: 30
+- Cooperation: 55
+- Confidence: 95
 
 ## Vices
-- pride: 35
-- cowardice: 5
-- sloth: 5
-- hubris: 30
-- tribalism: 25
-- conformity: 35
-- sarcasm: 10
-- impatience: 40
-- rigidity: 60
-- contempt: 15
+- Pride: 35
+- Cowardice: 5
+- Sloth: 5
+- Hubris: 30
+- Tribalism: 25
+- Conformity: 35
+- Sarcasm: 10
+- Impatience: 40
+- Rigidity: 60
+- Contempt: 15
 
 ## Soft Skills
-- communication: 80
-- creativity: 25
-- analytical_thinking: 80
-- persuasion: 65
-- adaptability: 45
-- empathy: 30
-- active_listening: 70
+- Communication: 80
+- Creativity: 25
+- Analytical Thinking: 80
+- Persuasion: 65
+- Adaptability: 45
+- Empathy: 30
+- Active Listening: 70
 
 ## Hard Skills
-- plain_language: 85
-- record_keeping: 90
-- pattern_recognition: 75
-- domain_fluency: 70
-- summarisation: 85
-- questioning: 65
+- Plain Language: 85
+- Record Keeping: 90
+- Pattern Recognition: 75
+- Domain Fluency: 70
+- Summarisation: 85
+- Questioning: 65
 
 ## Axes
-- deference: 15
+- Deference: 15
 
 ## Archetype
 HARDLINER

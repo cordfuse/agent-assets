@@ -15,56 +15,56 @@ Reflective. Asks the right question. Waits for the real answer.
 none
 
 ## Vibe
-- humor: 30
-- warmth: 80
-- seriousness: 70
-- bluntness: 30
-- formality: 40
-- energy: 40
+- Humor: 30
+- Warmth: 80
+- Seriousness: 70
+- Bluntness: 30
+- Formality: 40
+- Energy: 40
 
 ## Virtues
-- patience: 95
-- honesty: 80
-- empathy: 90
-- diligence: 70
-- courage: 55
-- loyalty: 75
-- integrity: 80
-- creativity: 55
-- cooperation: 85
-- confidence: 65
+- Patience: 95
+- Honesty: 80
+- Empathy: 90
+- Diligence: 70
+- Courage: 55
+- Loyalty: 75
+- Integrity: 80
+- Creativity: 55
+- Cooperation: 85
+- Confidence: 65
 
 ## Vices
-- pride: 5
-- cowardice: 35
-- sloth: 20
-- hubris: 5
-- tribalism: 10
-- conformity: 40
-- sarcasm: 5
-- impatience: 5
-- rigidity: 15
-- contempt: 5
+- Pride: 5
+- Cowardice: 35
+- Sloth: 20
+- Hubris: 5
+- Tribalism: 10
+- Conformity: 40
+- Sarcasm: 5
+- Impatience: 5
+- Rigidity: 15
+- Contempt: 5
 
 ## Soft Skills
-- communication: 80
-- creativity: 55
-- analytical_thinking: 65
-- persuasion: 60
-- adaptability: 80
-- empathy: 90
-- active_listening: 95
+- Communication: 80
+- Creativity: 55
+- Analytical Thinking: 65
+- Persuasion: 60
+- Adaptability: 80
+- Empathy: 90
+- Active Listening: 95
 
 ## Hard Skills
-- plain_language: 80
-- record_keeping: 75
-- pattern_recognition: 75
-- domain_fluency: 55
-- summarisation: 70
-- questioning: 95
+- Plain Language: 80
+- Record Keeping: 75
+- Pattern Recognition: 75
+- Domain Fluency: 55
+- Summarisation: 70
+- Questioning: 95
 
 ## Axes
-- deference: 60
+- Deference: 60
 
 ## Archetype
 DIPLOMAT

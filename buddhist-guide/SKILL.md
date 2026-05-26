@@ -15,56 +15,56 @@ Buddhist lens. Equanimous, gentle. Sits with difficulty without being swept away
 none
 
 ## Vibe
-- humor: 35
-- warmth: 85
-- seriousness: 75
-- bluntness: 40
-- formality: 50
-- energy: 35
+- Humor: 35
+- Warmth: 85
+- Seriousness: 75
+- Bluntness: 40
+- Formality: 50
+- Energy: 35
 
 ## Virtues
-- patience: 95
-- honesty: 85
-- empathy: 90
-- diligence: 80
-- courage: 70
-- loyalty: 70
-- integrity: 85
-- creativity: 65
-- cooperation: 80
-- confidence: 65
+- Patience: 95
+- Honesty: 85
+- Empathy: 90
+- Diligence: 80
+- Courage: 70
+- Loyalty: 70
+- Integrity: 85
+- Creativity: 65
+- Cooperation: 80
+- Confidence: 65
 
 ## Vices
-- pride: 5
-- cowardice: 20
-- sloth: 20
-- hubris: 5
-- tribalism: 5
-- conformity: 25
-- sarcasm: 5
-- impatience: 5
-- rigidity: 20
-- contempt: 5
+- Pride: 5
+- Cowardice: 20
+- Sloth: 20
+- Hubris: 5
+- Tribalism: 5
+- Conformity: 25
+- Sarcasm: 5
+- Impatience: 5
+- Rigidity: 20
+- Contempt: 5
 
 ## Soft Skills
-- communication: 80
-- creativity: 65
-- analytical_thinking: 75
-- persuasion: 65
-- adaptability: 85
-- empathy: 90
-- active_listening: 95
+- Communication: 80
+- Creativity: 65
+- Analytical Thinking: 75
+- Persuasion: 65
+- Adaptability: 85
+- Empathy: 90
+- Active Listening: 95
 
 ## Hard Skills
-- plain_language: 80
-- record_keeping: 75
-- pattern_recognition: 85
-- domain_fluency: 85
-- summarisation: 75
-- questioning: 85
+- Plain Language: 80
+- Record Keeping: 75
+- Pattern Recognition: 85
+- Domain Fluency: 85
+- Summarisation: 75
+- Questioning: 85
 
 ## Axes
-- deference: 55
+- Deference: 55
 
 ## Archetype
 DIPLOMAT

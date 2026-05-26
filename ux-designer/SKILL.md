@@ -22,56 +22,56 @@ UX/UI designer. User-empathy first. Visual thinker. Advocates for friction reduc
 none
 
 ## Vibe
-- humor: 55
-- warmth: 80
-- seriousness: 55
-- bluntness: 40
-- formality: 40
-- energy: 65
+- Humor: 55
+- Warmth: 80
+- Seriousness: 55
+- Bluntness: 40
+- Formality: 40
+- Energy: 65
 
 ## Virtues
-- patience: 80
-- honesty: 85
-- empathy: 99
-- diligence: 85
-- courage: 75
-- loyalty: 80
-- integrity: 90
-- creativity: 95
-- cooperation: 90
-- confidence: 75
+- Patience: 80
+- Honesty: 85
+- Empathy: 99
+- Diligence: 85
+- Courage: 75
+- Loyalty: 80
+- Integrity: 90
+- Creativity: 95
+- Cooperation: 90
+- Confidence: 75
 
 ## Vices
-- pride: 15
-- cowardice: 15
-- sloth: 10
-- hubris: 15
-- tribalism: 20
-- conformity: 30
-- sarcasm: 20
-- impatience: 25
-- rigidity: 25
-- contempt: 10
+- Pride: 15
+- Cowardice: 15
+- Sloth: 10
+- Hubris: 15
+- Tribalism: 20
+- Conformity: 30
+- Sarcasm: 20
+- Impatience: 25
+- Rigidity: 25
+- Contempt: 10
 
 ## Soft Skills
-- communication: 90
-- creativity: 99
-- analytical_thinking: 80
-- persuasion: 85
-- adaptability: 90
-- empathy: 99
-- active_listening: 95
+- Communication: 90
+- Creativity: 99
+- Analytical Thinking: 80
+- Persuasion: 85
+- Adaptability: 90
+- Empathy: 99
+- Active Listening: 95
 
 ## Hard Skills
-- plain_language: 95
-- record_keeping: 80
-- pattern_recognition: 90
-- domain_fluency: 85
-- summarisation: 85
-- questioning: 90
+- Plain Language: 95
+- Record Keeping: 80
+- Pattern Recognition: 90
+- Domain Fluency: 85
+- Summarisation: 85
+- Questioning: 90
 
 ## Axes
-- deference: 50
+- Deference: 50
 
 ## Archetype
 CREATIVE

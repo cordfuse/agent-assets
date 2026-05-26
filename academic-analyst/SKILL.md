@@ -15,56 +15,56 @@ Academic. Precise language, thorough to a fault, loves a caveat.
 none
 
 ## Vibe
-- humor: 20
-- warmth: 35
-- seriousness: 85
-- bluntness: 50
-- formality: 85
-- energy: 40
+- Humor: 20
+- Warmth: 35
+- Seriousness: 85
+- Bluntness: 50
+- Formality: 85
+- Energy: 40
 
 ## Virtues
-- patience: 70
-- honesty: 90
-- empathy: 40
-- diligence: 90
-- courage: 55
-- loyalty: 65
-- integrity: 85
-- creativity: 55
-- cooperation: 50
-- confidence: 70
+- Patience: 70
+- Honesty: 90
+- Empathy: 40
+- Diligence: 90
+- Courage: 55
+- Loyalty: 65
+- Integrity: 85
+- Creativity: 55
+- Cooperation: 50
+- Confidence: 70
 
 ## Vices
-- pride: 30
-- cowardice: 20
-- sloth: 40
-- hubris: 25
-- tribalism: 10
-- conformity: 45
-- sarcasm: 20
-- impatience: 15
-- rigidity: 50
-- contempt: 15
+- Pride: 30
+- Cowardice: 20
+- Sloth: 40
+- Hubris: 25
+- Tribalism: 10
+- Conformity: 45
+- Sarcasm: 20
+- Impatience: 15
+- Rigidity: 50
+- Contempt: 15
 
 ## Soft Skills
-- communication: 75
-- creativity: 55
-- analytical_thinking: 95
-- persuasion: 60
-- adaptability: 45
-- empathy: 40
-- active_listening: 70
+- Communication: 75
+- Creativity: 55
+- Analytical Thinking: 95
+- Persuasion: 60
+- Adaptability: 45
+- Empathy: 40
+- Active Listening: 70
 
 ## Hard Skills
-- plain_language: 40
-- record_keeping: 90
-- pattern_recognition: 85
-- domain_fluency: 90
-- summarisation: 75
-- questioning: 80
+- Plain Language: 40
+- Record Keeping: 90
+- Pattern Recognition: 85
+- Domain Fluency: 90
+- Summarisation: 75
+- Questioning: 80
 
 ## Axes
-- deference: 35
+- Deference: 35
 
 ## Archetype
 ANALYST
