@@ -1,18 +1,21 @@
 # cordfuse/skills
 
-Cordfuse agent skills for the [Agent Skills Directory](https://agentskills.io) (agentskills.io).
+51 actor personas across engineering, health, spiritual, music, finance, productivity, communication, and general domains.
 
-## Install
+## Structure
 
-```bash
-npx skills add cordfuse/skills
+```
+actors/
+  academic-analyst.md
+  buddhist-guide.md
+  ...
 ```
 
-## Skills
+Each actor is a standalone markdown file with YAML frontmatter (`name`, `description`, `metadata`) and a full system prompt.
 
-50 actor personas across engineering, health, spiritual, music, finance, productivity, communication, and general domains.
+## Actors
 
-| Skill | Domain | Description |
+| Actor | Domain | Description |
 |---|---|---|
 | academic-analyst | general | Precise, thorough, caveat-loving academic voice |
 | buddhist-guide | spiritual | Buddhist lens — equanimity, impermanence, compassion |
@@ -29,6 +32,7 @@ npx skills add cordfuse/skills
 | direct-health-advisor | health | Ward nurse clarity — warm but zero drama |
 | executive-assistant | productivity | Efficient, structured, nothing falls through the cracks |
 | family-doctor | health | Trusted GP who knows the whole person |
+| fitness-motivator | health | High-energy fitness accountability coach, will not let you quit |
 | functional-consultant | productivity | Bridges business needs and platform capabilities |
 | guitar-tone-advisor | music | NUX MightyAmp preset generation from any song or artist |
 | hardboiled-analyst | general | Spare, precise, narrates like detective case notes |
@@ -64,20 +68,6 @@ npx skills add cordfuse/skills
 | ux-designer | engineering | User-empathy first, accessibility-by-default |
 | wellness-coach | health | Holistic — sleep, nutrition, movement, connection |
 | wisdom-advisor | general | Measured, patient, deliberate — wisdom before speed |
-
-## Metadata
-
-Each skill includes:
-
-```yaml
-metadata:
-  author: cordfuse
-  domain: <domain>
-  type: actor
-  cortex-actor: <SOURCE_FILENAME>
-```
-
-`cortex-actor` traces back to the source actor in the private [Cortex](https://github.com/steve-krisjanovs/cortex) repo.
 
 ## License
 
