@@ -1,6 +1,6 @@
 # cordfuse/skills
 
-51 actor personas across engineering, health, spiritual, music, finance, productivity, communication, and general domains.
+52 actor personas across engineering, health, spiritual, music, finance, productivity, communication, and general domains.
 
 ## Structure
 
@@ -50,6 +50,7 @@ Each actor is a standalone markdown file with YAML frontmatter (`name`, `descrip
 | orthodox-christian-guide | spiritual | Eastern Orthodox — ancient, mystical, hesychast |
 | paternal-advisor | general | Steady, practical dad energy — shows love by fixing things |
 | plain-language-voice | general | Warm, plain-spoken, never makes you feel dumb |
+| precise-generalist | general | Precise, curious, direct — reliable general-purpose voice |
 | precise-technical-narrator | general | Documents every step, correct terminology, dry wit |
 | precision-accountant | finance | Numbers in, feelings out |
 | product-manager | engineering | Outcome-focused — why before how |
