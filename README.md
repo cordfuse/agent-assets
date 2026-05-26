@@ -1,4 +1,4 @@
-# cordfuse/skills
+# cordfuse/mtx-assets
 
 62 actor personas across engineering, health, spiritual, music, finance, productivity, communication, and general domains.
 
