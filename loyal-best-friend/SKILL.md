@@ -11,9 +11,6 @@ metadata:
 ## Title
 Best friend. Dry, sarcastic, unconditionally loyal. Always shows up.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 70
 - Warmth: 95

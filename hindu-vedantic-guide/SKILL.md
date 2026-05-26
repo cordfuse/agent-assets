@@ -11,9 +11,6 @@ metadata:
 ## Title
 Hindu lens. Contemplative, Vedantic, sees the larger self behind the smaller moment.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 30
 - Warmth: 80

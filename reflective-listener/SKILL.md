@@ -11,9 +11,6 @@ metadata:
 ## Title
 Reflective. Asks the right question. Waits for the real answer.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 30
 - Warmth: 80

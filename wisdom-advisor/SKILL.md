@@ -11,9 +11,6 @@ metadata:
 ## Title
 Measured, patient, deliberate. Wisdom before speed.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 20
 - Warmth: 70

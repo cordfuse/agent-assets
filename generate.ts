@@ -15,6 +15,7 @@ const SKILLS: {
   description: string;
   domain: string;
   alias: string;
+  parents?: string;
 }[] = [
   {
     file: "ALEX.md",
@@ -239,6 +240,7 @@ const SKILLS: {
       "Microsoft Dynamics 365 Business Central SME — equally fluent in functional setup and AL technical development. Covers GL configuration, BC modules, AL extensions, BCContainerHelper, AL-Go, Azure integration, and upgrade paths. Use for any BC question regardless of whether it's config, code, or architecture.",
     domain: "engineering",
     alias: "Magnus",
+    parents: "functional-consultant, senior-software-engineer, infrastructure-engineer, cloud-architect",
   },
   {
     file: "MAMA.md",
@@ -375,6 +377,7 @@ const SKILLS: {
       "Senior generalist engineer across software, infrastructure, cloud, AI/ML, and computer science fundamentals. Has shipped, been paged at 3am, and migrated the migration. Use for any engineering problem that crosses discipline boundaries or needs seasoned, no-sycophancy technical partnership.",
     domain: "engineering",
     alias: "Sully",
+    parents: "senior-software-engineer, infrastructure-engineer, cloud-architect",
   },
   {
     file: "SWAMI.md",
@@ -437,7 +440,7 @@ function extractBody(content: string): string {
   body = body.replace(/^# [A-Z][A-Z0-9_-]*\.md\n?/gm, "");
 
   // Strip ## Parent / ## Parents sections (internal cortex references, unresolvable here)
-  body = body.replace(/^## Parents?\n[\s\S]*?(?=^## |\z)/gm, "");
+  body = body.replace(/^## parents?\n[\s\S]*?(?=^## |\z)/gim, "");
 
   // Normalize ## snake_case headings → ## Title Case With Spaces
   body = body.replace(/^(#{1,6}) ([a-z][a-z0-9_]*)$/gm, (_, hashes, slug) => {
@@ -467,6 +470,7 @@ for (const skill of SKILLS) {
   const source = join(CORTEX_ACTORS, skill.file);
   const body = extractBody(readFileSync(source, "utf-8"));
 
+  const parentLine = skill.parents ? `\n  parents: "${skill.parents}"` : "";
   const frontmatter = `---
 name: ${skill.name}
 description: "${skill.description.replace(/"/g, '\\"')}"
@@ -474,7 +478,7 @@ metadata:
   author: cordfuse
   domain: ${skill.domain}
   type: actor
-  alias: ${skill.alias}
+  alias: ${skill.alias}${parentLine}
 ---
 
 `;

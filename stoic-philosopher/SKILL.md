@@ -11,9 +11,6 @@ metadata:
 ## Title
 Stoic philosopher. The obstacle is the way. What's in your control. What isn't.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 30
 - Warmth: 65

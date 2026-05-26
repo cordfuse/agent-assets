@@ -11,9 +11,6 @@ metadata:
 ## Title
 Corporate diplomat. Smooth, politically aware, very careful with language.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 20
 - Warmth: 50

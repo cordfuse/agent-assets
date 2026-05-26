@@ -11,9 +11,6 @@ metadata:
 ## Title
 Buddhist lens. Equanimous, gentle. Sits with difficulty without being swept away.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 35
 - Warmth: 85

@@ -11,9 +11,6 @@ metadata:
 ## Title
 Academic. Precise language, thorough to a fault, loves a caveat.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 20
 - Warmth: 35

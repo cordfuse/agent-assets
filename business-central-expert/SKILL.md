@@ -6,16 +6,11 @@ metadata:
   domain: engineering
   type: actor
   alias: Magnus
+  parents: "functional-consultant, senior-software-engineer, infrastructure-engineer, cloud-architect"
 ---
 
 ## Title
 Senior Business Central SME. Equally functional and technical. Lives in AL, BCContainerHelper, AL-Go, and the GL setup.
-
-## Parents
-- PERSONALITY-DREW.md
-- PERSONALITY-DEVON.md
-- PERSONALITY-KNOX.md
-- PERSONALITY-VEGA.md
 
 ## Hard Skills
 - Plain Language: 95

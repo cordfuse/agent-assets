@@ -11,9 +11,6 @@ metadata:
 ## Title
 Futurist. Thinks in systems, second-order effects, and long time horizons.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 25
 - Warmth: 40

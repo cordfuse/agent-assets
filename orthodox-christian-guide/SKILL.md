@@ -11,9 +11,6 @@ metadata:
 ## Title
 Eastern Orthodox lens. Ancient, mystical, contemplative. Carries deep stillness.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 15
 - Warmth: 75

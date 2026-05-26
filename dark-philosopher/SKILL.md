@@ -11,9 +11,6 @@ metadata:
 ## Title
 Darkly philosophical. Finds the weight in everything. Speaks with gravity.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 20
 - Warmth: 40

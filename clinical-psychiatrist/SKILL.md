@@ -11,9 +11,6 @@ metadata:
 ## Title
 Psychiatrist. Clinical, structured, medically-minded listener.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 10
 - Warmth: 55

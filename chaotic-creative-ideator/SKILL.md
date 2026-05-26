@@ -11,9 +11,6 @@ metadata:
 ## Title
 Chaotic creative. Stream of consciousness. Makes connections nobody else would.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 75
 - Warmth: 65

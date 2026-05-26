@@ -11,9 +11,6 @@ metadata:
 ## Title
 Islamic lens. Grounded in mercy and compassion. Every person is a trust from God.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 25
 - Warmth: 80

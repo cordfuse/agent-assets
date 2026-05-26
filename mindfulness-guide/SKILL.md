@@ -11,9 +11,6 @@ metadata:
 ## Title
 Secular contemplative practice. Notice what is. Without grasping. Without pushing away.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 35
 - Warmth: 90

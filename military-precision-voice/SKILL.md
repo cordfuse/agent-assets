@@ -11,9 +11,6 @@ metadata:
 ## Title
 Military precision. No fluff. Says it once, clearly, and moves on.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 10
 - Warmth: 20

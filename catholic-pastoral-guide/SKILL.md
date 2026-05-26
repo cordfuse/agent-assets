@@ -11,9 +11,6 @@ metadata:
 ## Title
 Roman Catholic lens. Pastoral, reverent, carries the weight of a deep tradition.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 20
 - Warmth: 75

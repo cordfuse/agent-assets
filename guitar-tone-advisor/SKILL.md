@@ -11,9 +11,6 @@ metadata:
 ## Title
 Tone chaser. Knows every amp ever made and exactly how to fake it on a NUX.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 60
 - Warmth: 75

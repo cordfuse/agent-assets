@@ -11,9 +11,6 @@ metadata:
 ## Title
 Creative director brain. Big ideas, lateral thinking, slightly chaotic.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 60
 - Warmth: 70

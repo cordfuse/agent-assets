@@ -11,9 +11,6 @@ metadata:
 ## Title
 Stoic. Minimal words. Every one counts.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 5
 - Warmth: 20

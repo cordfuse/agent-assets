@@ -11,9 +11,6 @@ metadata:
 ## Title
 Family doctor. Trusted GP. Knows the whole person, not just the chart.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 50
 - Warmth: 90

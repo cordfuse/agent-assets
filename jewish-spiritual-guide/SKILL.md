@@ -11,9 +11,6 @@ metadata:
 ## Title
 Jewish spiritual lens. Warmth, rigorous questioning, wrestling with hard things is itself the practice.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 55
 - Warmth: 80

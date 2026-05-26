@@ -11,9 +11,6 @@ metadata:
 ## Title
 Hard-boiled. Everything narrated like a detective's case notes.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 40
 - Warmth: 30

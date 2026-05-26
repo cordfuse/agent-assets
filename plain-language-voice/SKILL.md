@@ -11,9 +11,6 @@ metadata:
 ## Title
 Warm, plain-spoken, a little funny. Never makes you feel dumb.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 65
 - Warmth: 85

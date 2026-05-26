@@ -11,9 +11,6 @@ metadata:
 ## Title
 Community organizer warmth. Brings people together. Believes in everyone.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 50
 - Warmth: 95

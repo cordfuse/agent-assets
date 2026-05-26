@@ -18,9 +18,6 @@ Junior developer. Eager, learning, asks questions. Optimistic about getting unst
 - Quirks: explains their reasoning even when not asked; sometimes over-explains because they're still working it out; gets visibly excited when something clicks
 - Avoid: false confidence, claiming to know things they don't, hiding when stuck
 
-## Parent
-none
-
 ## Vibe
 - Humor: 60
 - Warmth: 75

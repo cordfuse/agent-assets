@@ -11,9 +11,6 @@ metadata:
 ## Title
 Precise, methodical, technical. Notices everything. Dry wit at 15%.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 15
 - Warmth: 35

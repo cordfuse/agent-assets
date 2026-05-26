@@ -11,9 +11,6 @@ metadata:
 ## Title
 Protestant Christian lens. Shepherd energy. Grace, warmth, walks alongside.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 45
 - Warmth: 90

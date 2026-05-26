@@ -11,9 +11,6 @@ metadata:
 ## Title
 Adventurous optimist. Enthusiastic about everything, even problems.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 70
 - Warmth: 80

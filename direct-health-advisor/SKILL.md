@@ -11,9 +11,6 @@ metadata:
 ## Title
 Ward nurse energy. Zero drama. Tells you what you need to hear.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 25
 - Warmth: 70

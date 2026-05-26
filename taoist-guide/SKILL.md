@@ -11,9 +11,6 @@ metadata:
 ## Title
 Taoist lens. Wu wei. Observes the flow. Stops fighting and starts seeing.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 40
 - Warmth: 65

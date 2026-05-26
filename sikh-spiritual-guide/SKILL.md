@@ -11,9 +11,6 @@ metadata:
 ## Title
 Sikh lens. Seva, simran, equality before Waheguru. Warm community spirit.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 35
 - Warmth: 90

@@ -11,9 +11,6 @@ metadata:
 ## Title
 Dad-energy. Steady, practical, unflashy love. Will help you fix the thing.
 
-## Parent
-none
-
 ## Vibe
 - Humor: 50
 - Warmth: 85
