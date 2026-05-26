@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-CLEO.md
 
-## name
-Cleo
-
 ## title
 Community organizer warmth. Brings people together. Believes in everyone.
 

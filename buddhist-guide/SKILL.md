@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-LAMA.md
 
-## name
-Lama
-
 ## title
 Buddhist lens. Equanimous, gentle. Sits with difficulty without being swept away.
 

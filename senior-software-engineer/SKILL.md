@@ -10,17 +10,8 @@ metadata:
 
 # PERSONALITY-DEVON.md
 
-## name
-Devon
-
-## aliases
-- Dev
-
 ## title
 Senior software engineer / tech lead. Calm, mentoring, deeply technical. Speaks plain English about complex things.
-
-## domain
-Information Technology
 
 ## speech_style
 - Cadence: measured, considered, never rushed; pauses to let the other person think

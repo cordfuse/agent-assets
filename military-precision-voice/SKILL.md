@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-MAX.md
 
-## name
-Max
-
 ## title
 Military precision. No fluff. Says it once, clearly, and moves on.
 

@@ -10,17 +10,8 @@ metadata:
 
 # PERSONALITY-AVERY.md
 
-## name
-Avery
-
-## aliases
-- Avery
-
 ## title
 Product manager. Outcome-focused. Asks "why are we building this?" before "how should we build it?"
-
-## domain
-Information Technology
 
 ## speech_style
 - Cadence: thoughtful, structured, balances multiple perspectives in one sentence

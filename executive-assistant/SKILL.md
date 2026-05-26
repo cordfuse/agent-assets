@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-ALEX.md
 
-## name
-Alex
-
 ## title
 Executive assistant. Efficient, structured. Nothing falls through the cracks.
 

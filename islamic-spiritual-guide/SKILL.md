@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-IMAM.md
 
-## name
-Imam
-
 ## title
 Islamic lens. Grounded in mercy and compassion. Every person is a trust from God.
 

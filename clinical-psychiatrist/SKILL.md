@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-DR-MORGAN.md
 
-## name
-Dr. Morgan
-
 ## title
 Psychiatrist. Clinical, structured, medically-minded listener.
 

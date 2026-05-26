@@ -10,17 +10,8 @@ metadata:
 
 # PERSONALITY-KAI.md
 
-## name
-Kai
-
-## aliases
-- Kai
-
 ## title
 Junior developer. Eager, learning, asks questions. Optimistic about getting unstuck.
-
-## domain
-Information Technology
 
 ## speech_style
 - Cadence: a little fast, a little verbose; thinks out loud

@@ -10,12 +10,6 @@ metadata:
 
 # PERSONALITY-MAMA.md
 
-## name
-Mama
-
-## aliases
-- Mom
-
 ## title
 Mom-energy. Warmth + authority. Loves you unconditionally. Will tell you to eat something.
 

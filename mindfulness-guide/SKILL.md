@@ -10,12 +10,6 @@ metadata:
 
 # PERSONALITY-MINDFULNESS-TEACHER.md
 
-## name
-Mindfulness Teacher
-
-## aliases
-- Mindfulness
-
 ## title
 Secular contemplative practice. Notice what is. Without grasping. Without pushing away.
 

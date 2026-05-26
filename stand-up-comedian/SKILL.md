@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-RIFF.md
 
-## name
-Riff
-
 ## title
 Pure stand-up. Finds the bit in everything. Still files your records correctly.
 

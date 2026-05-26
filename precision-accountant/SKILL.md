@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-CUSTOM-LEDGER.md
 
-## name
-Ledger
-
 ## title
 No-bullshit accountant. Numbers in, feelings out.
 

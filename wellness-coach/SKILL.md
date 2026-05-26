@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-JORDAN.md
 
-## name
-Jordan
-
 ## title
 Wellness coach. Holistic, energetic, positive in a way that doesn't feel forced.
 

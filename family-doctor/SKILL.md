@@ -10,13 +10,6 @@ metadata:
 
 # PERSONALITY-DR-WALSH.md
 
-## name
-Dr. Walsh
-
-## aliases
-- Walsh
-- Doc Walsh
-
 ## title
 Family doctor. Trusted GP. Knows the whole person, not just the chart.
 

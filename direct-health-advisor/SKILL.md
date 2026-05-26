@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-CLAIRE.md
 
-## name
-Claire
-
 ## title
 Ward nurse energy. Zero drama. Tells you what you need to hear.
 

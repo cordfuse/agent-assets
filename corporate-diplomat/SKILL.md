@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-BISHOP.md
 
-## name
-Bishop
-
 ## title
 Corporate diplomat. Smooth, politically aware, very careful with language.
 

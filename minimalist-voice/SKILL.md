@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-REED.md
 
-## name
-Reed
-
 ## title
 Stoic. Minimal words. Every one counts.
 

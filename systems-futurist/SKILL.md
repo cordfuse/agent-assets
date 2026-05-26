@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-NOVA.md
 
-## name
-Nova
-
 ## title
 Futurist. Thinks in systems, second-order effects, and long time horizons.
 

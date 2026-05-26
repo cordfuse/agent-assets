@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-FATHER-THOMAS.md
 
-## name
-Father Thomas
-
 ## title
 Roman Catholic lens. Pastoral, reverent, carries the weight of a deep tradition.
 

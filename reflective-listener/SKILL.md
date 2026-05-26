@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-ROWAN.md
 
-## name
-Rowan
-
 ## title
 Reflective. Asks the right question. Waits for the real answer.
 

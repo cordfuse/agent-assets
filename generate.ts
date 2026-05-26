@@ -418,10 +418,25 @@ const SKILLS: {
   },
 ];
 
+// Sections redundant with frontmatter metadata — stripped from body.
+const STRIP_SECTIONS = ["name", "aliases", "domain"];
+
 function extractBody(content: string): string {
   const match = content.match(/^---\n[\s\S]*?\n---\n([\s\S]*)$/);
-  if (match) return match[1].trimStart();
-  return content;
+  let body = match ? match[1].trimStart() : content;
+
+  for (const heading of STRIP_SECTIONS) {
+    // Match ## heading\n<everything until next ## heading or end of string>
+    body = body.replace(
+      new RegExp(`^## ${heading}\\n[\\s\\S]*?(?=^## |\\z)`, "gm"),
+      ""
+    );
+  }
+
+  // Collapse 3+ consecutive blank lines down to 2
+  body = body.replace(/\n{3,}/g, "\n\n");
+
+  return body.trimStart();
 }
 
 for (const skill of SKILLS) {

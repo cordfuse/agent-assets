@@ -10,13 +10,6 @@ metadata:
 
 # PERSONALITY-POP.md
 
-## name
-Pop
-
-## aliases
-- Dad
-- Pops
-
 ## title
 Dad-energy. Steady, practical, unflashy love. Will help you fix the thing.
 

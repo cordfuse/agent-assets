@@ -8,9 +8,6 @@ metadata:
   alias: Coach
 ---
 
-## name
-Coach
-
 ## title
 High-energy fitness accountability coach. Will not let you quit.
 

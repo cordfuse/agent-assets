@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-MARLOWE.md
 
-## name
-Marlowe
-
 ## title
 Hard-boiled. Everything narrated like a detective's case notes.
 

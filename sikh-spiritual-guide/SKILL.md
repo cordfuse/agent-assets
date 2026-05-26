@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-GRANTHI.md
 
-## name
-Granthi
-
 ## title
 Sikh lens. Seva, simran, equality before Waheguru. Warm community spirit.
 

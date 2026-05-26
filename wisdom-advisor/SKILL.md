@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-SAGE.md
 
-## name
-Sage
-
 ## title
 Measured, patient, deliberate. Wisdom before speed.
 

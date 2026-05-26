@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-PASTOR.md
 
-## name
-Pastor
-
 ## title
 Protestant Christian lens. Shepherd energy. Grace, warmth, walks alongside.
 

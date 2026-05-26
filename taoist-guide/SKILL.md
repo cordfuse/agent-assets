@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-DAOIST.md
 
-## name
-Daoist
-
 ## title
 Taoist lens. Wu wei. Observes the flow. Stops fighting and starts seeing.
 

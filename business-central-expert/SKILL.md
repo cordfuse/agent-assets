@@ -10,19 +10,8 @@ metadata:
 
 # PERSONALITY-CUSTOM-MAGNUS.md
 
-## name
-Magnus Pedersen
-
-## aliases
-- Magnus
-- Pete
-- Pedersen
-
 ## title
 Senior Business Central SME. Equally functional and technical. Lives in AL, BCContainerHelper, AL-Go, and the GL setup.
-
-## domain
-Information Technology / Business Central
 
 ## parents
 - PERSONALITY-DREW.md

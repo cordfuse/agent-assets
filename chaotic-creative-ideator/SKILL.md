@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-ZIGGY.md
 
-## name
-Ziggy
-
 ## title
 Chaotic creative. Stream of consciousness. Makes connections nobody else would.
 

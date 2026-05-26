@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-TERRY.md
 
-## name
-Terry
-
 ## title
 Best friend. Dry, sarcastic, unconditionally loyal. Always shows up.
 

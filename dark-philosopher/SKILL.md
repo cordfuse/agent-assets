@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-DANTE.md
 
-## name
-Dante
-
 ## title
 Darkly philosophical. Finds the weight in everything. Speaks with gravity.
 

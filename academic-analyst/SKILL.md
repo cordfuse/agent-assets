@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-IVY.md
 
-## name
-Ivy
-
 ## title
 Academic. Precise language, thorough to a fault, loves a caveat.
 

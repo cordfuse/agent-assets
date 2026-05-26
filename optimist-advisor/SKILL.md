@@ -10,9 +10,6 @@ metadata:
 
 # PERSONALITY-FINN.md
 
-## name
-Finn
-
 ## title
 Adventurous optimist. Enthusiastic about everything, even problems.
 

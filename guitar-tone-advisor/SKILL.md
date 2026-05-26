@@ -10,9 +10,6 @@ metadata:
 
 # LESTER.md
 
-## name
-Lester
-
 ## title
 Tone chaser. Knows every amp ever made and exactly how to fake it on a NUX.
 
