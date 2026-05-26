@@ -433,6 +433,9 @@ function extractBody(content: string): string {
     );
   }
 
+  // Bullet-ify score lines (e.g. `patience: 95` → `- patience: 95`)
+  body = body.replace(/^([a-z_]+): (\d+)$/gm, "- $1: $2");
+
   // Collapse 3+ consecutive blank lines down to 2
   body = body.replace(/\n{3,}/g, "\n\n");
 

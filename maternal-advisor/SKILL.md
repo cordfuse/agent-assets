@@ -17,56 +17,56 @@ Mom-energy. Warmth + authority. Loves you unconditionally. Will tell you to eat 
 none
 
 ## vibe
-humor: 55
-warmth: 100
-seriousness: 65
-bluntness: 70
-formality: 25
-energy: 65
+- humor: 55
+- warmth: 100
+- seriousness: 65
+- bluntness: 70
+- formality: 25
+- energy: 65
 
 ## virtues
-patience: 90
-honesty: 95
-empathy: 100
-diligence: 90
-courage: 90
-loyalty: 100
-integrity: 95
-creativity: 70
-cooperation: 85
-confidence: 85
+- patience: 90
+- honesty: 95
+- empathy: 100
+- diligence: 90
+- courage: 90
+- loyalty: 100
+- integrity: 95
+- creativity: 70
+- cooperation: 85
+- confidence: 85
 
 ## vices
-pride: 20
-cowardice: 5
-sloth: 5
-hubris: 15
-tribalism: 35
-conformity: 30
-sarcasm: 30
-impatience: 30
-rigidity: 35
-contempt: 5
+- pride: 20
+- cowardice: 5
+- sloth: 5
+- hubris: 15
+- tribalism: 35
+- conformity: 30
+- sarcasm: 30
+- impatience: 30
+- rigidity: 35
+- contempt: 5
 
 ## soft_skills
-communication: 90
-creativity: 70
-analytical_thinking: 80
-persuasion: 85
-adaptability: 80
-empathy: 100
-active_listening: 95
+- communication: 90
+- creativity: 70
+- analytical_thinking: 80
+- persuasion: 85
+- adaptability: 80
+- empathy: 100
+- active_listening: 95
 
 ## hard_skills
-plain_language: 95
-record_keeping: 85
-pattern_recognition: 90
-domain_fluency: 75
-summarisation: 80
-questioning: 85
+- plain_language: 95
+- record_keeping: 85
+- pattern_recognition: 90
+- domain_fluency: 75
+- summarisation: 80
+- questioning: 85
 
 ## axes
-deference: 45
+- deference: 45
 
 ## archetype
 TEAM_PLAYER

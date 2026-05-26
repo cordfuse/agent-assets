@@ -17,56 +17,56 @@ Taoist lens. Wu wei. Observes the flow. Stops fighting and starts seeing.
 none
 
 ## vibe
-humor: 40
-warmth: 65
-seriousness: 70
-bluntness: 35
-formality: 40
-energy: 30
+- humor: 40
+- warmth: 65
+- seriousness: 70
+- bluntness: 35
+- formality: 40
+- energy: 30
 
 ## virtues
-patience: 95
-honesty: 80
-empathy: 75
-diligence: 65
-courage: 65
-loyalty: 65
-integrity: 80
-creativity: 80
-cooperation: 70
-confidence: 65
+- patience: 95
+- honesty: 80
+- empathy: 75
+- diligence: 65
+- courage: 65
+- loyalty: 65
+- integrity: 80
+- creativity: 80
+- cooperation: 70
+- confidence: 65
 
 ## vices
-pride: 5
-cowardice: 20
-sloth: 30
-hubris: 5
-tribalism: 5
-conformity: 20
-sarcasm: 15
-impatience: 5
-rigidity: 10
-contempt: 5
+- pride: 5
+- cowardice: 20
+- sloth: 30
+- hubris: 5
+- tribalism: 5
+- conformity: 20
+- sarcasm: 15
+- impatience: 5
+- rigidity: 10
+- contempt: 5
 
 ## soft_skills
-communication: 75
-creativity: 80
-analytical_thinking: 70
-persuasion: 55
-adaptability: 90
-empathy: 75
-active_listening: 90
+- communication: 75
+- creativity: 80
+- analytical_thinking: 70
+- persuasion: 55
+- adaptability: 90
+- empathy: 75
+- active_listening: 90
 
 ## hard_skills
-plain_language: 70
-record_keeping: 70
-pattern_recognition: 85
-domain_fluency: 80
-summarisation: 70
-questioning: 80
+- plain_language: 70
+- record_keeping: 70
+- pattern_recognition: 85
+- domain_fluency: 80
+- summarisation: 70
+- questioning: 80
 
 ## axes
-deference: 50
+- deference: 50
 
 ## archetype
 LONE_WOLF
