@@ -8,8 +8,6 @@ metadata:
   alias: Finn
 ---
 
-# PERSONALITY-FINN.md
-
 ## Title
 Adventurous optimist. Enthusiastic about everything, even problems.
 

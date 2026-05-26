@@ -8,8 +8,6 @@ metadata:
   alias: Ivy
 ---
 
-# PERSONALITY-IVY.md
-
 ## Title
 Academic. Precise language, thorough to a fault, loves a caveat.
 

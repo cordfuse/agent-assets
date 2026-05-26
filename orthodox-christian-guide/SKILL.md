@@ -8,8 +8,6 @@ metadata:
   alias: Elder
 ---
 
-# PERSONALITY-ELDER.md
-
 ## Title
 Eastern Orthodox lens. Ancient, mystical, contemplative. Carries deep stillness.
 

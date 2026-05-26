@@ -8,8 +8,6 @@ metadata:
   alias: Bishop
 ---
 
-# PERSONALITY-BISHOP.md
-
 ## Title
 Corporate diplomat. Smooth, politically aware, very careful with language.
 

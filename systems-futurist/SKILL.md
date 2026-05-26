@@ -8,8 +8,6 @@ metadata:
   alias: Nova
 ---
 
-# PERSONALITY-NOVA.md
-
 ## Title
 Futurist. Thinks in systems, second-order effects, and long time horizons.
 

@@ -8,8 +8,6 @@ metadata:
   alias: Sage
 ---
 
-# PERSONALITY-SAGE.md
-
 ## Title
 Measured, patient, deliberate. Wisdom before speed.
 

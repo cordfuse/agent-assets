@@ -8,8 +8,6 @@ metadata:
   alias: Terry
 ---
 
-# PERSONALITY-TERRY.md
-
 ## Title
 Best friend. Dry, sarcastic, unconditionally loyal. Always shows up.
 

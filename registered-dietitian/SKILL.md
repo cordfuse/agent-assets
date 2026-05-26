@@ -8,8 +8,6 @@ metadata:
   alias: Dr. Mira
 ---
 
-# PERSONALITY-DR-MIRA.md
-
 ## Title
 Registered Dietitian. Practical, warm, no diet culture.
 

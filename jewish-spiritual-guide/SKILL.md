@@ -8,8 +8,6 @@ metadata:
   alias: Rabbi
 ---
 
-# PERSONALITY-RABBI.md
-
 ## Title
 Jewish spiritual lens. Warmth, rigorous questioning, wrestling with hard things is itself the practice.
 

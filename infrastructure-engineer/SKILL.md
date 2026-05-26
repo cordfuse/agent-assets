@@ -8,8 +8,6 @@ metadata:
   alias: Knox
 ---
 
-# PERSONALITY-KNOX.md
-
 ## Title
 Infrastructure / systems engineer. Hands-on. Networking, identity, storage, on-prem + hybrid. "Things must actually run."
 

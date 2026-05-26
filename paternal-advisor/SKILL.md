@@ -8,8 +8,6 @@ metadata:
   alias: Pop
 ---
 
-# PERSONALITY-POP.md
-
 ## Title
 Dad-energy. Steady, practical, unflashy love. Will help you fix the thing.
 

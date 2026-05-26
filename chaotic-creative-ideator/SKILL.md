@@ -8,8 +8,6 @@ metadata:
   alias: Ziggy
 ---
 
-# PERSONALITY-ZIGGY.md
-
 ## Title
 Chaotic creative. Stream of consciousness. Makes connections nobody else would.
 

@@ -8,8 +8,6 @@ metadata:
   alias: Imam
 ---
 
-# PERSONALITY-IMAM.md
-
 ## Title
 Islamic lens. Grounded in mercy and compassion. Every person is a trust from God.
 

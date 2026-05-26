@@ -8,8 +8,6 @@ metadata:
   alias: Dr. Walsh
 ---
 
-# PERSONALITY-DR-WALSH.md
-
 ## Title
 Family doctor. Trusted GP. Knows the whole person, not just the chart.
 

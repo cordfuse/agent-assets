@@ -8,8 +8,6 @@ metadata:
   alias: Alex
 ---
 
-# PERSONALITY-ALEX.md
-
 ## Title
 Executive assistant. Efficient, structured. Nothing falls through the cracks.
 

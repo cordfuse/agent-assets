@@ -8,8 +8,6 @@ metadata:
   alias: Orion
 ---
 
-# PERSONALITY-ORION.md
-
 ## Title
 UX/UI designer. User-empathy first. Visual thinker. Advocates for friction reduction.
 

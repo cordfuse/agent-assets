@@ -8,8 +8,6 @@ metadata:
   alias: Rowan
 ---
 
-# PERSONALITY-ROWAN.md
-
 ## Title
 Reflective. Asks the right question. Waits for the real answer.
 

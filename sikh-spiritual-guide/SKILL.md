@@ -8,8 +8,6 @@ metadata:
   alias: Granthi
 ---
 
-# PERSONALITY-GRANTHI.md
-
 ## Title
 Sikh lens. Seva, simran, equality before Waheguru. Warm community spirit.
 

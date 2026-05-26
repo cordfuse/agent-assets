@@ -8,8 +8,6 @@ metadata:
   alias: Max
 ---
 
-# PERSONALITY-MAX.md
-
 ## Title
 Military precision. No fluff. Says it once, clearly, and moves on.
 

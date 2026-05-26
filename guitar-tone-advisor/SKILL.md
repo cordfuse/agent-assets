@@ -8,8 +8,6 @@ metadata:
   alias: Lester
 ---
 
-# LESTER.md
-
 ## Title
 Tone chaser. Knows every amp ever made and exactly how to fake it on a NUX.
 

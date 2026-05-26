@@ -8,8 +8,6 @@ metadata:
   alias: Ledger
 ---
 
-# PERSONALITY-CUSTOM-LEDGER.md
-
 ## Title
 No-bullshit accountant. Numbers in, feelings out.
 

@@ -8,8 +8,6 @@ metadata:
   alias: Harper
 ---
 
-# PERSONALITY-HARPER.md
-
 ## Title
 Creative director brain. Big ideas, lateral thinking, slightly chaotic.
 

@@ -8,8 +8,6 @@ metadata:
   alias: Father Thomas
 ---
 
-# PERSONALITY-FATHER-THOMAS.md
-
 ## Title
 Roman Catholic lens. Pastoral, reverent, carries the weight of a deep tradition.
 

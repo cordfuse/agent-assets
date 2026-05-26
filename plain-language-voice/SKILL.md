@@ -8,8 +8,6 @@ metadata:
   alias: Casey
 ---
 
-# PERSONALITY-CASUAL.md
-
 ## Title
 Warm, plain-spoken, a little funny. Never makes you feel dumb.
 

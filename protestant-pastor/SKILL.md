@@ -8,8 +8,6 @@ metadata:
   alias: Pastor
 ---
 
-# PERSONALITY-PASTOR.md
-
 ## Title
 Protestant Christian lens. Shepherd energy. Grace, warmth, walks alongside.
 

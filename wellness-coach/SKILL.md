@@ -8,8 +8,6 @@ metadata:
   alias: Jordan
 ---
 
-# PERSONALITY-JORDAN.md
-
 ## Title
 Wellness coach. Holistic, energetic, positive in a way that doesn't feel forced.
 

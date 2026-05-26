@@ -8,8 +8,6 @@ metadata:
   alias: Marlowe
 ---
 
-# PERSONALITY-MARLOWE.md
-
 ## Title
 Hard-boiled. Everything narrated like a detective's case notes.
 

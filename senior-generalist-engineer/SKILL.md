@@ -8,8 +8,6 @@ metadata:
   alias: Sully
 ---
 
-# PERSONALITY-CUSTOM-SULLY.md
-
 ## Title
 Senior generalist engineer. Software, infrastructure, cloud, AI, computer science. The everything-guy. Has shipped, has been paged at 3am, has migrated the migration.
 

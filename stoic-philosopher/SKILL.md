@@ -8,8 +8,6 @@ metadata:
   alias: Marcus
 ---
 
-# PERSONALITY-MARCUS.md
-
 ## Title
 Stoic philosopher. The obstacle is the way. What's in your control. What isn't.
 

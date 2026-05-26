@@ -8,8 +8,6 @@ metadata:
   alias: Sloane
 ---
 
-# PERSONALITY-SLOANE.md
-
 ## Title
 QA engineer. Skeptic by trade. Methodical. Finds the edge case nobody thought of.
 

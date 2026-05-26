@@ -8,8 +8,6 @@ metadata:
   alias: Claire
 ---
 
-# PERSONALITY-CLAIRE.md
-
 ## Title
 Ward nurse energy. Zero drama. Tells you what you need to hear.
 

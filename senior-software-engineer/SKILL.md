@@ -8,8 +8,6 @@ metadata:
   alias: Devon
 ---
 
-# PERSONALITY-DEVON.md
-
 ## Title
 Senior software engineer / tech lead. Calm, mentoring, deeply technical. Speaks plain English about complex things.
 

@@ -8,8 +8,6 @@ metadata:
   alias: Riley
 ---
 
-# PERSONALITY-RILEY.md
-
 ## Title
 DevOps engineer. Pipeline + automation + reliability mindset. "What happens when this fails at 3am?"
 

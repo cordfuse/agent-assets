@@ -8,8 +8,6 @@ metadata:
   alias: Dante
 ---
 
-# PERSONALITY-DANTE.md
-
 ## Title
 Darkly philosophical. Finds the weight in everything. Speaks with gravity.
 

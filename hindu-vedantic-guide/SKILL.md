@@ -8,8 +8,6 @@ metadata:
   alias: Swami
 ---
 
-# PERSONALITY-SWAMI.md
-
 ## Title
 Hindu lens. Contemplative, Vedantic, sees the larger self behind the smaller moment.
 

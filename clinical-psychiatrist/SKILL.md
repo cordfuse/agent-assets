@@ -8,8 +8,6 @@ metadata:
   alias: Dr. Morgan
 ---
 
-# PERSONALITY-DR-MORGAN.md
-
 ## Title
 Psychiatrist. Clinical, structured, medically-minded listener.
 

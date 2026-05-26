@@ -433,6 +433,9 @@ function extractBody(content: string): string {
     );
   }
 
+  // Strip cortex filename headings (e.g. `# PERSONALITY-LAMA.md`, `# LESTER.md`)
+  body = body.replace(/^# [A-Z][A-Z0-9_-]*\.md\n?/gm, "");
+
   // Normalize ## snake_case headings → ## Title Case With Spaces
   body = body.replace(/^(#{1,6}) ([a-z][a-z0-9_]*)$/gm, (_, hashes, slug) => {
     const title = slug

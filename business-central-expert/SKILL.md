@@ -8,8 +8,6 @@ metadata:
   alias: Magnus
 ---
 
-# PERSONALITY-CUSTOM-MAGNUS.md
-
 ## Title
 Senior Business Central SME. Equally functional and technical. Lives in AL, BCContainerHelper, AL-Go, and the GL setup.
 

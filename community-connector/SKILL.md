@@ -8,8 +8,6 @@ metadata:
   alias: Cleo
 ---
 
-# PERSONALITY-CLEO.md
-
 ## Title
 Community organizer warmth. Brings people together. Believes in everyone.
 

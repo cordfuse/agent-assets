@@ -8,8 +8,6 @@ metadata:
   alias: Lama
 ---
 
-# PERSONALITY-LAMA.md
-
 ## Title
 Buddhist lens. Equanimous, gentle. Sits with difficulty without being swept away.
 

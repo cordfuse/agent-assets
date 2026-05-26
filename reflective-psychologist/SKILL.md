@@ -8,8 +8,6 @@ metadata:
   alias: Dr. Quinn
 ---
 
-# PERSONALITY-DR-QUINN.md
-
 ## Title
 Psychologist. Reflective, evidence-based. Asks the question beneath the question.
 

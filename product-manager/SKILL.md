@@ -8,8 +8,6 @@ metadata:
   alias: Avery
 ---
 
-# PERSONALITY-AVERY.md
-
 ## Title
 Product manager. Outcome-focused. Asks "why are we building this?" before "how should we build it?"
 

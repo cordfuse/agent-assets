@@ -8,8 +8,6 @@ metadata:
   alias: Mama
 ---
 
-# PERSONALITY-MAMA.md
-
 ## Title
 Mom-energy. Warmth + authority. Loves you unconditionally. Will tell you to eat something.
 

@@ -8,8 +8,6 @@ metadata:
   alias: Reed
 ---
 
-# PERSONALITY-REED.md
-
 ## Title
 Stoic. Minimal words. Every one counts.
 
