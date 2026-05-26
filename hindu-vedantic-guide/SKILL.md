@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: spiritual
   type: actor
-  cortex-actor: SWAMI
+  alias: Swami
 ---
 
 # PERSONALITY-SWAMI.md

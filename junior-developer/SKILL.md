@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: engineering
   type: actor
-  cortex-actor: KAI
+  alias: Kai
 ---
 
 # PERSONALITY-KAI.md

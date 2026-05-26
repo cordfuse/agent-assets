@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: finance
   type: actor
-  cortex-actor: LEDGER
+  alias: Ledger
 ---
 
 # PERSONALITY-CUSTOM-LEDGER.md

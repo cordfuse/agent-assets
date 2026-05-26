@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: engineering
   type: actor
-  cortex-actor: RILEY
+  alias: Riley
 ---
 
 # PERSONALITY-RILEY.md

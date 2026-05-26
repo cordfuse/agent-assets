@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: general
   type: actor
-  cortex-actor: ZIGGY
+  alias: Ziggy
 ---
 
 # PERSONALITY-ZIGGY.md

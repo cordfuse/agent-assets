@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: productivity
   type: actor
-  cortex-actor: DREW
+  alias: Drew
 ---
 
 # PERSONALITY-DREW.md

@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: general
   type: actor
-  cortex-actor: FINN
+  alias: Finn
 ---
 
 # PERSONALITY-FINN.md

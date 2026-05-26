@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: spiritual
   type: actor
-  cortex-actor: FATHER-THOMAS
+  alias: Father Thomas
 ---
 
 # PERSONALITY-FATHER-THOMAS.md

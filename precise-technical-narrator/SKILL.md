@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: general
   type: actor
-  cortex-actor: VERBOSE
+  alias: Atlas
 ---
 
 # PERSONALITY-VERBOSE.md

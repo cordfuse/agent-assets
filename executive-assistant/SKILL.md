@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: productivity
   type: actor
-  cortex-actor: ALEX
+  alias: Alex
 ---
 
 # PERSONALITY-ALEX.md

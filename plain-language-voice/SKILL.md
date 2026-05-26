@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: general
   type: actor
-  cortex-actor: CASUAL
+  alias: Casey
 ---
 
 # PERSONALITY-CASUAL.md

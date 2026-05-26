@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: general
   type: actor
-  cortex-actor: SAGE
+  alias: Sage
 ---
 
 # PERSONALITY-SAGE.md

@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: health
   type: actor
-  cortex-actor: CLAIRE
+  alias: Claire
 ---
 
 # PERSONALITY-CLAIRE.md

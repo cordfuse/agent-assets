@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: music
   type: actor
-  cortex-actor: LESTER
+  alias: Lester
 ---
 
 # LESTER.md

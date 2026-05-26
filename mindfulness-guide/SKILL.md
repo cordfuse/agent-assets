@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: spiritual
   type: actor
-  cortex-actor: MINDFULNESS-TEACHER
+  alias: Mindfulness Teacher
 ---
 
 # PERSONALITY-MINDFULNESS-TEACHER.md

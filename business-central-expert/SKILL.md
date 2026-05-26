@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: engineering
   type: actor
-  cortex-actor: MAGNUS
+  alias: Magnus
 ---
 
 # PERSONALITY-CUSTOM-MAGNUS.md

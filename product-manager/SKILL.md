@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: engineering
   type: actor
-  cortex-actor: AVERY
+  alias: Avery
 ---
 
 # PERSONALITY-AVERY.md

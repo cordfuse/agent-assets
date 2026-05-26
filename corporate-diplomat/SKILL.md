@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: communication
   type: actor
-  cortex-actor: BISHOP
+  alias: Bishop
 ---
 
 # PERSONALITY-BISHOP.md

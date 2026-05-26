@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: health
   type: actor
-  cortex-actor: DR-MIRA
+  alias: Dr. Mira
 ---
 
 # PERSONALITY-DR-MIRA.md

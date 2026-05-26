@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: spiritual
   type: actor
-  cortex-actor: DAOIST
+  alias: Daoist
 ---
 
 # PERSONALITY-DAOIST.md

@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: general
   type: actor
-  cortex-actor: CLEO
+  alias: Cleo
 ---
 
 # PERSONALITY-CLEO.md

@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: health
   type: actor
-  cortex-actor: DR-MORGAN
+  alias: Dr. Morgan
 ---
 
 # PERSONALITY-DR-MORGAN.md

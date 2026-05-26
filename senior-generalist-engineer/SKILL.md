@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: engineering
   type: actor
-  cortex-actor: SULLY
+  alias: Sully
 ---
 
 # PERSONALITY-CUSTOM-SULLY.md

@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: engineering
   type: actor
-  cortex-actor: ORION
+  alias: Orion
 ---
 
 # PERSONALITY-ORION.md

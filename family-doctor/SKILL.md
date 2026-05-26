@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: health
   type: actor
-  cortex-actor: DR-WALSH
+  alias: Dr. Walsh
 ---
 
 # PERSONALITY-DR-WALSH.md

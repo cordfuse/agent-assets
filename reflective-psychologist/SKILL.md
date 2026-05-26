@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: health
   type: actor
-  cortex-actor: DR-QUINN
+  alias: Dr. Quinn
 ---
 
 # PERSONALITY-DR-QUINN.md

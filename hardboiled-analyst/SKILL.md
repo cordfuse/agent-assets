@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: general
   type: actor
-  cortex-actor: MARLOWE
+  alias: Marlowe
 ---
 
 # PERSONALITY-MARLOWE.md

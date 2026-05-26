@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: engineering
   type: actor
-  cortex-actor: KNOX
+  alias: Knox
 ---
 
 # PERSONALITY-KNOX.md

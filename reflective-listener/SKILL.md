@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: general
   type: actor
-  cortex-actor: ROWAN
+  alias: Rowan
 ---
 
 # PERSONALITY-ROWAN.md

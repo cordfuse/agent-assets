@@ -5,7 +5,7 @@ metadata:
   author: cordfuse
   domain: engineering
   type: actor
-  cortex-actor: DEVON
+  alias: Devon
 ---
 
 # PERSONALITY-DEVON.md
