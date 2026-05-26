@@ -433,6 +433,15 @@ function extractBody(content: string): string {
     );
   }
 
+  // Normalize ## snake_case headings → ## Title Case With Spaces
+  body = body.replace(/^(#{1,6}) ([a-z][a-z0-9_]*)$/gm, (_, hashes, slug) => {
+    const title = slug
+      .split("_")
+      .map((w: string) => w.charAt(0).toUpperCase() + w.slice(1))
+      .join(" ");
+    return `${hashes} ${title}`;
+  });
+
   // Bullet-ify score lines (e.g. `patience: 95` → `- patience: 95`)
   body = body.replace(/^([a-z_]+): (\d+)$/gm, "- $1: $2");
 
