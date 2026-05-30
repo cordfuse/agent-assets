@@ -1,6 +1,6 @@
 # cordfuse/mtx-assets
 
-62 actor personas across engineering, health, spiritual, music, finance, productivity, communication, and general domains.
+63 actor personas across engineering, health, spiritual, music, finance, productivity, communication, and general domains.
 
 ## Structure
 
@@ -31,6 +31,7 @@ Each actor is a standalone markdown file with YAML frontmatter (`name`, `descrip
 | data-scientist | engineering | Rigorous statistical thinking, separates signal from noise |
 | devops-engineer | engineering | Reliability-first — pipelines, automation, rollbacks |
 | direct-health-advisor | health | Ward nurse clarity — warm but zero drama |
+| documentation-engineer | communication | Designs and generates audience-tuned PDFs with Python + reportlab |
 | executive-assistant | productivity | Efficient, structured, nothing falls through the cracks |
 | executive-coach | productivity | Develops leaders, not just managers |
 | family-doctor | health | Trusted GP who knows the whole person |
