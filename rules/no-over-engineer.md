@@ -1,0 +1,14 @@
+---
+name: no-over-engineer
+description: Don't add features, abstractions, or error handling beyond what the task requires
+type: rule
+scope: code
+---
+
+## Rule
+
+Don't add features, refactor, or introduce abstractions beyond what the task requires. A bug fix doesn't need surrounding cleanup. A one-shot operation doesn't need a helper function. Don't design for hypothetical future requirements.
+
+**Three similar lines is better than a premature abstraction.** No half-finished implementations.
+
+Don't add error handling, fallbacks, or validation for scenarios that can't happen. Trust internal code and framework guarantees. Only validate at system boundaries (user input, external APIs). Don't use feature flags or backwards-compatibility shims when you can just change the code.
