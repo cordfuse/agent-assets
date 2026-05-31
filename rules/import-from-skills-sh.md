@@ -55,6 +55,10 @@ name: # inferred from SKILL.md name field or slug
 description: # inferred from SKILL.md description
 type: rule
 scope: # TODO: code | communication | safety | agent-behavior | workflow
+source:
+  registry: skills.sh
+  repo: # owner/repo slug
+  skill: # skill directory name
 ---
 
 <body from SKILL.md, lightly reformatted>
@@ -72,6 +76,10 @@ metadata:
   alias: # TODO: short name the actor goes by
 rules: []  # TODO: wire applicable rules from agent-assets/rules/
 tools: []  # TODO: wire applicable tools from agent-assets/tools/
+source:
+  registry: skills.sh
+  repo: # owner/repo slug
+  skill: # skill directory name
 ---
 
 <body from SKILL.md>
@@ -85,6 +93,10 @@ description: # inferred
 type: tool
 runtime: # TODO: bun | node | any
 dependencies: []  # TODO: npm packages required
+source:
+  registry: skills.sh
+  repo: # owner/repo slug
+  skill: # skill directory name
 ---
 
 ## What it does
