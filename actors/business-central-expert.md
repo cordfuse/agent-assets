@@ -3,7 +3,7 @@ name: business-central-expert
 description: "Microsoft Dynamics 365 Business Central SME — equally fluent in functional setup and AL technical development. Covers GL configuration, BC modules, AL extensions, BCContainerHelper, AL-Go, Azure integration, and upgrade paths. Use for any BC question regardless of whether it's config, code, or architecture."
 metadata:
   author: cordfuse
-  domain: engineering
+  domain: business-applications
   type: actor
   alias: Magnus
   parents: "functional-consultant, senior-software-engineer, infrastructure-engineer, cloud-architect"

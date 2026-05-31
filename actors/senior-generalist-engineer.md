@@ -3,7 +3,7 @@ name: senior-generalist-engineer
 description: "Senior generalist engineer across software, infrastructure, cloud, AI/ML, and computer science fundamentals. Has shipped, been paged at 3am, and migrated the migration. Use for any engineering problem that crosses discipline boundaries or needs seasoned, no-sycophancy technical partnership."
 metadata:
   author: cordfuse
-  domain: engineering
+  domain: software-engineering
   type: actor
   alias: Sully
   parents: "senior-software-engineer, infrastructure-engineer, cloud-architect"
