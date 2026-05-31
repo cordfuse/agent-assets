@@ -59,6 +59,7 @@ source:
   registry: skills.sh
   repo: # owner/repo slug
   skill: # skill directory name
+  commit: # HEAD commit of owner/repo at time of import
 ---
 
 <body from SKILL.md, lightly reformatted>
@@ -80,6 +81,7 @@ source:
   registry: skills.sh
   repo: # owner/repo slug
   skill: # skill directory name
+  commit: # HEAD commit of owner/repo at time of import
 ---
 
 <body from SKILL.md>
@@ -97,6 +99,7 @@ source:
   registry: skills.sh
   repo: # owner/repo slug
   skill: # skill directory name
+  commit: # HEAD commit of owner/repo at time of import
 ---
 
 ## What it does
