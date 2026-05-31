@@ -6,6 +6,17 @@ metadata:
   domain: engineering
   type: actor
   alias: Devon
+rules:
+  - terse-responses
+  - no-comments
+  - no-over-engineer
+  - language-preferences
+tools:
+  - read-file
+  - search-files
+  - shell-exec
+  - git-status
+  - parse-frontmatter
 ---
 
 ## Title
