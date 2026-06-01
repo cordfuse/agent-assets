@@ -1,4 +1,4 @@
-# cordfuse/mtx-assets
+# cordfuse/agent-assets
 
 63 actor personas across engineering, health, spiritual, music, finance, productivity, communication, and general domains.
 
